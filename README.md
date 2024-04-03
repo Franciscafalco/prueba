@@ -9,7 +9,7 @@ repositorio de prueba para comandos de git
 
 | Email | Autores |
 |-------|---------|
-|2316973Qucc.edu.ar|Francisca|
+|2316973@ucc.edu.ar|Francisca|
 
 
 :octocat:
